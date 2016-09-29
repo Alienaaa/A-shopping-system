@@ -1,0 +1,50 @@
+c:\users\asus\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\asus\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\asus\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\asus\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\asus\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+c:\users\asus\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home.resources
+c:\users\asus\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Items.resources
+c:\users\asus\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Register.resources
+C:\Users\Alien\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Alien\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Alien\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Alien\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Alien\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Alien\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home.resources
+C:\Users\Alien\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Items.resources
+C:\Users\Alien\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Register.resources
+C:\Users\Alien\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Alien\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Alien\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Database.accdb
+C:\Users\Alien\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Manager.resources
+C:\Users\Alien\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.User.resources
+C:\Users\Alien\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.feedback.resources
+C:\Users\Alien\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Alien\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Alien\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Alien\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Alien\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+D:\study\inc\大三下\多媒体系统设计\网店管理与多媒体展示系统（201210513028朱文佳）\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\study\inc\大三下\多媒体系统设计\网店管理与多媒体展示系统（201210513028朱文佳）\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\study\inc\大三下\多媒体系统设计\网店管理与多媒体展示系统（201210513028朱文佳）\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\study\inc\大三下\多媒体系统设计\网店管理与多媒体展示系统（201210513028朱文佳）\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+D:\study\inc\大三下\多媒体系统设计\网店管理与多媒体展示系统（201210513028朱文佳）\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\study\inc\大三下\多媒体系统设计\网店管理与多媒体展示系统（201210513028朱文佳）\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\study\inc\大三下\多媒体系统设计\网店管理与多媒体展示系统（201210513028朱文佳）\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Database.accdb
+D:\study\inc\大三下\多媒体系统设计\网店管理与多媒体展示系统（201210513028朱文佳）\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\study\inc\大三下\多媒体系统设计\网店管理与多媒体展示系统（201210513028朱文佳）\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\study\inc\大三下\多媒体系统设计\网店管理与多媒体展示系统（201210513028朱文佳）\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\study\inc\大三下\多媒体系统设计\网店管理与多媒体展示系统（201210513028朱文佳）\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\study\inc\大三下\多媒体系统设计\网店管理与多媒体展示系统（201210513028朱文佳）\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+D:\study\inc\大三下\多媒体系统设计\网店管理与多媒体展示系统（201210513028朱文佳）\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.feedback.resources
+D:\study\inc\大三下\多媒体系统设计\网店管理与多媒体展示系统（201210513028朱文佳）\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home.resources
+D:\study\inc\大三下\多媒体系统设计\网店管理与多媒体展示系统（201210513028朱文佳）\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Items.resources
+D:\study\inc\大三下\多媒体系统设计\网店管理与多媒体展示系统（201210513028朱文佳）\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Manager.resources
+D:\study\inc\大三下\多媒体系统设计\网店管理与多媒体展示系统（201210513028朱文佳）\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Register.resources
+D:\study\inc\大三下\多媒体系统设计\网店管理与多媒体展示系统（201210513028朱文佳）\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\study\inc\大三下\多媒体系统设计\网店管理与多媒体展示系统（201210513028朱文佳）\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.User.resources
+D:\study\inc\大三下\多媒体系统设计\网店管理与多媒体展示系统（201210513028朱文佳）\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
